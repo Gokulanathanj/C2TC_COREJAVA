@@ -1,4 +1,4 @@
-package com.tns.ifet.day2;
+package com.tns.ifet.day1;
 
 public class OperatorsDemo {
 	public static void main(String args[]) {
