@@ -1,4 +1,4 @@
-package com.ifet.tns.excepthand.finaly;
+package com.tns.ifet.excephand.finaly;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

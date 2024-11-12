@@ -1,4 +1,4 @@
-package com.ifet.tns.functionalinter;
+package com.tns.ifet.functionalinter;
 
 public class GreetClass implements GreetInterface {
 	@Override
